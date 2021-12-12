@@ -17,6 +17,9 @@
     font-family: "Balsamiq Sans", cursive;
     color: var(--clr-neon);
     padding-right: 10rem;
+    margin: auto;
+    align-items: center;
+    justify-content: center;
   }
   
   .neon-button {
